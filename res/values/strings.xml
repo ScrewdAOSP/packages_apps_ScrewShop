@@ -251,7 +251,7 @@
 
     <!-- Bluetooth status -->
     <string name="bluetooth_battery_title">Show Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if availible.</string>
+    <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if available</string>
 
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Force Expanded Notifications</string>
@@ -306,7 +306,7 @@
     <string name="qs_set_animation_interpolator">%1$s</string>
 
     <!-- Immersive Recents -->
-    <string name="immersive_recents_title">Immersive Recents</string>
+    <string name="immersive_recents_title">Immersive recents</string>
     <string name="immersive_recents_summary">Change the view of the recents screen</string>
     <string name="immersive_recents_dialog_title">Select recents view</string>
     <string name="immersive_recents_default">Default</string>
@@ -948,14 +948,14 @@
      <!-- Statusbar Screw'd logo -->
     <string name="status_bar_logo_category_title">Statusbar logo</string>
     <string name="status_bar_screwd_logo_title">Screw\'d logo</string>
-    <string name="status_bar_screwd_logo_summary">Enable to show Screw\'d logo on the left side of statusbar</string>
+    <string name="status_bar_screwd_logo_summary">Enable to show the Screw\'d logo on the left side of statusbar</string>
     <string name="status_bar_screwd_logo_color">Screw\'d logo color</string>
     <string name="status_bar_screwd_logo_position">Logo location</string>
     <string name="status_bar_screwd_logo_position_summary">Choose which side to display the logo on, left or right</string>
     <string name="status_bar_logo_position_right">Right</string>
     <string name="status_bar_logo_position_left">Left</string>
     <string name="status_bar_logo_animate_title">Animate the logo</string>
-    <string name="status_bar_logo_animate_summary">When enabled, the Screw\'d logo will blink at you.</string>
+    <string name="status_bar_logo_animate_summary">When enabled, the Screw\'d logo will blink at you</string>
 
     <!-- Lockscreen weather -->
     <string name="display_category_weather_title">Lockscreen weather options</string>
@@ -1095,7 +1095,7 @@
 
     <!-- Lockscreen charging current indicator  -->
     <string name="lockscreen_charging_current_title">Lockscreen charging info</string>
-    <string name="lockscreen_charging_current_summary">Display negociated charger max current and voltage on lockscreen</string>
+    <string name="lockscreen_charging_current_summary">Display charger max current and voltage on lockscreen</string>
 
     <!-- Heads up settings -->
     <string name="headsup_settings_title">Peeking notifications</string>
@@ -1132,7 +1132,7 @@
 
     <!-- BT easy toggle -->
     <string name="qs_bt_easy_toggle_title">Bluetooth easy toggle</string>
-    <string name="qs_bt_easy_toggle_summary">Makes it so one click will turn Bluetooth on or off instead of taking you to settings</string>
+    <string name="qs_bt_easy_toggle_summary">Enable one tap action to enable or disable Bluetooth</string>
 
     <!-- WiFi easy toggle -->
     <string name="qs_wifi_easy_toggle_title">WiFi easy toggle</string>
@@ -1141,7 +1141,7 @@
     <!-- On-The-Go -->
     <string name="power_menu_onthego_title">On-The-Go Mode</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay.</string>
+    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
 
     <!-- Transparency porn -->
     <string name="qs_transparent_shade">QS shade transparency</string>
@@ -1177,13 +1177,13 @@
     <string name="custom_summary_randomize_explain">Pre-written summaries will be selected at random and will change everytime you start the Settings app.\nThis overrides any custom summary set.</string>
     <string name="sum1">Chopped Up, not Slopped Up...</string>
     <string name="sum2">Swangin in the rain...</string>
-    <string name="sum3">#YoureScrewdNow!</string>
+    <string name="sum3">#You\'reScrewdNow!</string>
     <string name="sum4">Lots O\' Options!</string>
     <string name="sum5">Where the cool kids hang out...</string>
     <string name="sum6">(Throws phone at Dustin)</string>
     <string name="sum7">It\'s exactly what it sounds like...</string>
     <string name="sum8">Cool stuff inside</string>
-    <string name="sum9">Free Candy!!</string>
+    <string name="sum9">Free Candy!</string>
     <string name="sum10">&#8593; &#8593; &#8595; &#8595; &#8592; &#8594; &#8592; &#8594; A B</string> 
     <string name="sum11">Choppin \'em up...</string>
 
